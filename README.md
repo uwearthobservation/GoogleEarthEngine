@@ -1,6 +1,6 @@
 # Google Earth Engine
 
-These are files to build a github website hosting the [SEFS 521 Advanced Earth Observation Course](https://uwearthobservation.github.io/Labs/) course content designed for Google Earth Engine and modeled off UW's[Geohackweek content](https://geohackweek.github.io/). Github automatically renders these files using Ruby to build the website.
+These are files to build a github website hosting the [SEFS 521 Advanced Earth Observation Course](https://uwearthobservation.github.io/Labs/) course content designed for Google Earth Engine and modeled off UW's [Geohackweek content](https://geohackweek.github.io/). Github automatically renders these files using Ruby to build the website.
 
 Pull-requests to expand on our tutorial content are encouraged. Changes can be made to the markdown files located in the [episodes folder](https://github.com/uwearthobservation/Labs/tree/gh-pages/_episodes)
 
