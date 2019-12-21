@@ -1,30 +1,31 @@
 ---
-title: "Time Series"
+title: "Field Spec"
 teaching: 0
 exercises: 0
 questions:
-- How do I create a time series for a given location?
-- How can I plot that time series within Google Earth Engine?
-- "How do I make that plot interactive?"
+- David writes stuff
+- So cool to use markdown!
+- Wish I still had a license for Oxygen ML
 objectives:
-- "Load high resolution crop imagery."
-- "Dynamically select lat/longs for creating time series plots."
-- "Create a time series of NDVI and EVI for a selected point."
+- blah blah
+- blah blah
+- blah blah
 keypoints:
-- "Time series data can be extracted and plotted from Image Collections for points and regions."
-- "GEE has increasing functionality for making interactive plots."
-- "The User Interface can be modified through the addition of widget."
+- learn some stuff
+- and other stuff
+- and other crap
 
 ---
 
 ## Overview
 
-This code allows users to dynamically generate time series plots for from points that are dynamically chosen on a map on the fly. The time series show the 16 day composites of Normalized Difference Vegetation Index and Enhanced Vegetation Index at 250 m resolution. These indices are derived from MODIS.
+crapola
 
 
 ## Define User Specifications
 
-This script is structured to make it easy for the user to select different images, dates and regions. For this exercise, we are going to leave the parameters as they are to set the extent as a study area in the Midwest, the Republican River Basin
+tk
+
 
 {% highlight javascript %}
 // load WBD dataset & select the Republican watershed
