@@ -49,14 +49,14 @@ Here we are loading three different types of high resolution crop imagery. The f
 // CDL: USDA Cropland Data Layers
 var cdl = ee.Image('USDA/NASS/CDL/2010').select('cropland').clip(setExtent);
 
-// NAIP aerial photos 
+// NAIP aerial photos
 var StartDate = '2010-01-01';
 var EndDate = '2010-12-31';
 
 var naip = ee.ImageCollection('USDA/NAIP/DOQQ')
     .filterBounds(setExtent)
     .filterDate(StartDate, EndDate);
-    
+
 // Derived Landsat Composites --------------------
 
 // annual max greenness image for background (previously exported asset)

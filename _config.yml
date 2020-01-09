@@ -7,17 +7,17 @@ encoding: utf-8
 kind: "lesson"
 
 # Overall title for pages.
-title: "Google Earth Engine"
+title: "UW Earth Observation Labs"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/geohackweek/GoogleEarthEngine
+repo: https://github.com/uwearthobservation/Labs
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://geohackweek.github.io/lesson-example', use '/lesson-example'.
-root: "/GoogleEarthEngine"
+root: "/Labs"
 
 # Contact email address.
-email: arendta@uw.edu
+email: ckuhn@uw.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -27,8 +27,8 @@ email: arendta@uw.edu
 is_production: true
 
 # Sites.
-ghw_site: "https://geohackweek.github.io"
-ghw_github: "https://github.com/geohackweek"
+ghw_site: "https://uwearthobservation.github.io"
+ghw_github: "https://github.com/uwearthobservation"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
